@@ -1,6 +1,7 @@
 <img src="https://github.com/raquel0685/dio_desafio_powerbi_relatorio/blob/main/bootcamp.png" width="100" align="left"/>
 
-# Desafio *Criando um Relatório de Vendas Elegante com Power BI*
+# *Criando um Relatório de Vendas Elegante com Power BI*
+### Desafio para o Santander Bootcamp 2023 - Ciência de Dados com Python
 
 Elaboração de um relatório de duas páginas com base na *sample* **financials** fornecida pelo *Power BI*.
 O conjunto de dados contém registros de 2013 e 2014 relativos às vendas e lucro de uma empresa, levando-se em consideração os produtos vendidos, segmentos trabalhados e países atendidos.   
