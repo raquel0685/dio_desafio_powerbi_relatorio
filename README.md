@@ -8,7 +8,7 @@ O conjunto de dados contém registros de 2013 e 2014 relativos às vendas e lucr
 Em conjunto com a instrutora, elaborou-se o relatório de vendas, criando os visuais e marcadores para maior interatividade com o relatório. A página de lucro foi elaborada de maneira independente, aplicando-se os conceitos e técnicas aprendidos.  
 Após a elaboração dos visuais para demonstração das vendas e lucro da empresa, o relatório foi publicado no *Power BI Web*.
 
-  <img src="https://github.com/raquel0685/dio_desafio_powerbi_relatorio/blob/main/sales.png" width="500"/> <img src="https://github.com/raquel0685/dio_desafio_powerbi_relatorio/blob/main/profit.png" width="500"/>
+  <img src="https://github.com/raquel0685/dio_desafio_powerbi_relatorio/blob/main/sales.png" width="450"/> <img src="https://github.com/raquel0685/dio_desafio_powerbi_relatorio/blob/main/profit.png" width="450"/>
 
 
  
